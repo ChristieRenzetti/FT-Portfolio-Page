@@ -1,2 +1,6 @@
 # FT-Portfolio-Page
-Created the pages, but my fetch javascript is still not working. Will continue to work on this, but for now, this is what we have.
+This is a work in progress, but now the fetch function works! 
+
+To add: More in projects.
+
+Move resume to about me and enable the download there.
